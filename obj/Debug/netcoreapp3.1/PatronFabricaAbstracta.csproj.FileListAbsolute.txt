@@ -1,0 +1,11 @@
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\bin\Debug\netcoreapp3.1\PatronFabricaAbstracta.exe
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\bin\Debug\netcoreapp3.1\PatronFabricaAbstracta.deps.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\bin\Debug\netcoreapp3.1\PatronFabricaAbstracta.runtimeconfig.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\bin\Debug\netcoreapp3.1\PatronFabricaAbstracta.runtimeconfig.dev.json
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\bin\Debug\netcoreapp3.1\PatronFabricaAbstracta.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\bin\Debug\netcoreapp3.1\PatronFabricaAbstracta.pdb
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\obj\Debug\netcoreapp3.1\PatronFabricaAbstracta.csprojAssemblyReference.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\obj\Debug\netcoreapp3.1\PatronFabricaAbstracta.AssemblyInfoInputs.cache
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\obj\Debug\netcoreapp3.1\PatronFabricaAbstracta.AssemblyInfo.cs
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\obj\Debug\netcoreapp3.1\PatronFabricaAbstracta.dll
+C:\Users\milton.vivar\Documents\BOT-MVIVAR_DELL\Documentos Generales\Cursos DEV\Practica\02_FabricaAbstracta\obj\Debug\netcoreapp3.1\PatronFabricaAbstracta.pdb
